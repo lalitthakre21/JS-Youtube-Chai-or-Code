@@ -1,3 +1,3 @@
 console.log("Lalit Thakre")
 
-console.log("Lucky thakre nankush")
+console.log("Lucky thakre ankush manisha pratiksha")
